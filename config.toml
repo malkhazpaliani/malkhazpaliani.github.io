@@ -1,0 +1,57 @@
+baseURL = 'https://malkhazpaliani.github.io'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Rooms"
+  url= "gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 2
+  [[menu.Main]]
+  name = "Attractions"
+  url= "blog"
+  weight = 3
+  [[menu.Main]]
+  name = "Contact"
+  url= "/contact/"
+  weight = 4
+
+
+[params]
+  aboutPageURL = "Mestia Hotel Level official web site"
+  contactLink = "contact"
+  copyright = "© {year}"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  #googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo-white.png"
+  footerlogo = "images/logo.png"
+
+  [params.address]
+  address = "David Aghmashenebeli 16 str., Mestia, 3200"
+  email = "malkhazpaliani@gmail.com"
+  phone = "(+995)551-444-117"
+
+  [params.map]
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "43.0500069"
+  longitude = "42.7348022"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/MestiaHotelLevel/"
+  weight = 1
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/mestia_hotel_level/"
+  weight = 4
+  
+  
