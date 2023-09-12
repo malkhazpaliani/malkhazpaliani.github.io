@@ -1,5 +1,5 @@
 public/
-themes/
+themes/*
 *.hugo_build.lock
 resources/_gen/
 *.scss
