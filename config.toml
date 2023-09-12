@@ -7,7 +7,7 @@ title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Main"
+  name = "Home"
   url= "/"
   weight = 1
   [[menu.Main]]
