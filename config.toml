@@ -17,7 +17,7 @@ title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
   weight = 2
   [[menu.Main]]
   name = "Attractions"
-  url= "/blog"
+  url= "/blog/"
   weight = 3
   [[menu.Main]]
   name = "Partnership"
