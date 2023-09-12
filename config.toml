@@ -8,15 +8,15 @@ title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
   # Main Menu
   [[menu.Main]]
   name = "Rooms"
-  url= "gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "About"
   url= "/about/"
-  weight = 2
+  weight = 1
   [[menu.Main]]
   name = "Attractions"
   url= "blog"
+  weight = 2
+  [[menu.Main]]
+  name = "Privacy Policy"
+  url = "/privacy/"
   weight = 3
   [[menu.Main]]
   name = "Contact"
