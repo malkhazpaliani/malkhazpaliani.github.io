@@ -1,9 +1,10 @@
+publishDir = "docs"
 baseURL = 'https://malkhazpaliani.github.io'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
 title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
- 
+
 [Menu]
   # Main Menu
   [[menu.Main]]
