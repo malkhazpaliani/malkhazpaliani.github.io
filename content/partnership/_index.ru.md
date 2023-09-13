@@ -4,9 +4,10 @@ subtitle: >
   Мы очень любим принимать туристические группы. Мы сотрудничаем с компаниями из Польши, Чехии, Украины, России и Грузии более 5 лет. Мы предлагаем вам индивидуальные решения гарантирующие бесперебойную организацию и незабываемые впечатления для групп любого размера. Давайте вместе создадим незабываемые путешествия для ваших клиентов!
 
 sliderImage:
-  - image: "images/about-01.jpg"
-  - image: "images/about-02.jpg"
-  - image: "images/about-03.jpg"
+  - image: "images/partnership-01.jpg"
+  - image: "images/partnership-02.jpg"
+  - image: "images/partnership-03.jpg"
+  - image: "images/partnership-04.jpg"
 ---
 
 ## Мы предлагаем
