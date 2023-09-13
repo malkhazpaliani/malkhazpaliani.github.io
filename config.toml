@@ -11,7 +11,7 @@ enableRobotsTXT = true
 [Languages]
   [Languages.en]
   title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
-  languageCode = 'en-US'
+  languageCode = 'en'
   weight = 0
   languagename = "English"
 

@@ -2,6 +2,11 @@
 title: "Partnership"
 subtitle: >
   We have a special affinity for group tourism. We have been collaborating with tourist companies from Poland, Czech Republic, Ukraine, Russia, and Georgia for over 5 years. Our partnership program offers tailored solutions, ensuring seamless arrangements and memorable experiences for groups of all sizes. Let's create unforgettable journeys for your clients together!
+
+sliderImage:
+  - image: "images/about-01.jpg"
+  - image: "images/about-02.jpg"
+  - image: "images/about-03.jpg"
 ---
 
 ## We provide assistance in
