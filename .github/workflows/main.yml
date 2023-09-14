@@ -29,10 +29,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: malkhazpaliani/malkhazpaliani.github.io
-          publish_dir: ./docs
-          #   keep_files: true
-          user_name: malkhazpaliani
-          user_email: malkhazpaliani@gmail.com
+          keep_files: true
+          destination_dir: ./docs
+          #external_repository: malkhazpaliani/malkhazpaliani.github.io
+          #user_name: malkhazpaliani
+          #user_email: malkhazpaliani@gmail.com
           publish_branch: main
         #   cname: example.com
