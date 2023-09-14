@@ -31,7 +31,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           keep_files: true
           publish_dir: .
-          destination_dir: ./docs
+          destination_dir: .
           #external_repository: malkhazpaliani/malkhazpaliani.github.io
           #user_name: malkhazpaliani
           #user_email: malkhazpaliani@gmail.com
