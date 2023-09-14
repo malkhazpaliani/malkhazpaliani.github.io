@@ -25,6 +25,9 @@ jobs:
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify
 
+      - name: Merge public with main branch
+        run: git merge --no-ff main -m "Auto-merge public to main"
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
