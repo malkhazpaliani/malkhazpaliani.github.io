@@ -30,6 +30,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           keep_files: true
+          publish_dir: .
           destination_dir: ./docs
           #external_repository: malkhazpaliani/malkhazpaliani.github.io
           #user_name: malkhazpaliani
