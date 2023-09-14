@@ -1,4 +1,0 @@
-themes/*
-*.hugo_build.lock
-resources/_gen/
-*.scss
