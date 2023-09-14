@@ -35,5 +35,5 @@ jobs:
           #external_repository: malkhazpaliani/malkhazpaliani.github.io
           #user_name: malkhazpaliani
           #user_email: malkhazpaliani@gmail.com
-          publish_branch: main
+          publish_branch: public
         #   cname: example.com
