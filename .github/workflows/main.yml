@@ -26,7 +26,7 @@ jobs:
         run: hugo --minify
 
       - name: Merge public with main branch
-        run: git merge --no-ff main -m "Auto-merge public to main"
+        run: git checkout -b public && git merge --no-ff main -m "Auto-merge public to main"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
